@@ -1,1 +1,1 @@
-# css-class-repos
+# css-activities
